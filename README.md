@@ -1,3 +1,4 @@
+Intructions to run project:
 1.This is a fullstack intern assignment. 
 
 2.First right click on main and select master branch where you can see the code.
