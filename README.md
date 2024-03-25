@@ -28,6 +28,10 @@ Intructions to run project:
 ![FAQ](https://github.com/suzannecorda8/Project/assets/103393836/b7cfb53f-136e-429d-8ed1-b710f47d4446)
 ![Testimonials](https://github.com/suzannecorda8/Project/assets/103393836/de008415-9a44-47c8-9c4c-cda86225305d)
 ![Footer](https://github.com/suzannecorda8/Project/assets/103393836/118b2dd3-b07d-4cfc-b8c3-89af48c6a997)
+![signup_1](https://github.com/suzannecorda8/Project/assets/103393836/52b3e04f-93c9-430f-803f-c7e06c558421)
+![signup_2](https://github.com/suzannecorda8/Project/assets/103393836/0be6a349-2e8a-4d36-9416-58cffe2f1b16)
+![database](https://github.com/suzannecorda8/Project/assets/103393836/859f42a3-898a-4cb0-8b7f-6f191cd506e9)
+
 
 
 
