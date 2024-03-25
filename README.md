@@ -18,3 +18,6 @@ Intructions to run project:
 9.Click on import in phpmyAdmin localhost the sql database file.
 
 10.To run project type localhost/Assign/index.php on Google Chrome/Microsoft Edge or the default browser.
+
+![Landing page_1](https://github.com/suzannecorda8/Project/assets/103393836/6d4d190f-814f-4e85-a210-8c7fa021050c)
+
